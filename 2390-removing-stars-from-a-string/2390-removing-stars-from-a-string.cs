@@ -11,9 +11,10 @@ public class Solution {
                 data.Push(s[start]);
             start++;
         }
-        return String.Create(data.Count, data, (span, state)=>
+        var count = data.Count;
+        return String.Create(count, data, (span, state)=>
         {
-            int i = state.Count-1;
+            int i = count-1;
             while(state.Count > 0)
             {
                 span[i] = state.Pop();
