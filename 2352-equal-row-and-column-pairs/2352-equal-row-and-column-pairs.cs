@@ -15,12 +15,11 @@ public class Solution {
         }
 
         // iterate through columns
+        int[] colElements = new int[n];
         for (int column=0; column<n; column++)
-        {
-            int[] colElements = new int[n];
+        {            
             for (int row=0; row<n; row++)            
-                colElements[row] = grid[row][column];
-            
+                colElements[row] = grid[row][column];            
             var colKey = string.Join(',',colElements);
             // If colKey is in dictionary, add its frequency count!
             if (freq.TryGetValue(colKey, out int rowCount))            
