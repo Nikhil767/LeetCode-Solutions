@@ -23,9 +23,9 @@ public class Solution {
             if(alive)
                 data.Push(current);
         }
-        var count = data.Count-1;
-        int[] result = new int[count+1];
-        for (int i=count; i>=0; i--)
+        var count = data.Count;
+        int[] result = new int[count];
+        for (int i=count-1; i>=0; i--)
         {
             result[i] = data.Pop();
         }
