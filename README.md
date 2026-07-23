@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
