@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0735-asteroid-collision](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0136-single-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Database
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
