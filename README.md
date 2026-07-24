@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -59,8 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
