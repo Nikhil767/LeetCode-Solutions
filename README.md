@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -95,5 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Hash Table
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
