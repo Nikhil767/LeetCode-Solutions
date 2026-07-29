@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
