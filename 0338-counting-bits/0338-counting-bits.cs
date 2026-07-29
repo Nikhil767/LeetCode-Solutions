@@ -4,7 +4,7 @@ public class Solution {
         bits[0]=0;
         for (int i =1; i<bits.Length; i++)
         {
-            bits[i] = bits[i/2] + ((i & 1)==1 ? 1 : 0);
+            bits[i] = bits[i/2] + (i & 1);
         }
         return bits;
     }
