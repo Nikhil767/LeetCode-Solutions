@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
