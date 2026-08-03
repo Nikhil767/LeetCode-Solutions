@@ -3,21 +3,24 @@ public class Solution {
        int n = rooms.Count;
         bool[] visited = new bool[n];
 
-        void DFS(int room) {
-            visited[room] = true;
-            foreach (int key in rooms[room]) {
-                if (!visited[key]) {
-                    DFS(key);
-                }
-            }
-        }
+        DFS(0, rooms, visited);
 
-        DFS(0);
-
-        // Check if all rooms were visited
-        foreach (bool v in visited) {
+        foreach (bool v in visited)
+        {
             if (!v) return false;
         }
         return true;
+    }
+
+    private void DFS(int room, IList<IList<int>> rooms, bool[] visited)
+    {
+        visited[room] = true;
+        foreach (int key in rooms[room])
+        {
+            if (!visited[key])
+            {
+                DFS(key, rooms, visited);
+            }
+        }
     }
 }
