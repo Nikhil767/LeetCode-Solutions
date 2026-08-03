@@ -3,7 +3,6 @@ public class Solution {
         int n = isConnected.Length;
         bool[] visited = new bool[n];
         int provinces = 0;
-
         for (int i = 0; i < n; i++)
         {
             if (!visited[i])
