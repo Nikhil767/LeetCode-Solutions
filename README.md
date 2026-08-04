@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -150,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Graph Theory
 |  |
 | ------- |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
