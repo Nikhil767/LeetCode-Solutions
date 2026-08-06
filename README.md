@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0994-rotting-oranges](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Memoization
