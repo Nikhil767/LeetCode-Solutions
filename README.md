@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Sorting
 |  |
