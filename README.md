@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0399-evaluate-division](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0561-array-partition](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0649-dota2-senate](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search Tree
