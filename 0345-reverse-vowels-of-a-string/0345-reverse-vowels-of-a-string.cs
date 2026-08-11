@@ -4,8 +4,8 @@ public class Solution {
         if(string.IsNullOrWhiteSpace(s)) return s;
         int startIndex=0;
         int endIndex=s.Length-1;
-        char[] S = s.ToCharArray();
-        Span<char> span = S;
+        //char[] S = s.ToCharArray();
+        Span<char> span = s.ToCharArray();
         s.AsSpan().CopyTo(span);
         while(startIndex<endIndex)
         {
@@ -27,7 +27,7 @@ public class Solution {
             startIndex++;
             endIndex--;            
         }
-        return new string(S);
+        return new string(span);
     }
 
     public bool IsVowel(char c)
