@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0649-dota2-senate) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0877-stone-game) |
