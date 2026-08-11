@@ -11,7 +11,11 @@ public class Solution {
         while (i < spanS.Length && j < spanT.Length)
         {
             if(spanS[i] == spanT[j])
+            {
                 i++;
+                if (i == s.Length)
+                    return true;
+            }
             j++;
         }       
         return i == spanS.Length;
