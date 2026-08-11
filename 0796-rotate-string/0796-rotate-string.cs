@@ -6,7 +6,7 @@ public class Solution {
         // optimized version using span
         ReadOnlySpan<char> doubledSpan = (s + s).AsSpan();
         ReadOnlySpan<char> goalSpan = goal.AsSpan();
-        for (int i = 0; i <= doubledSpan.Length - goalSpan.Length; i++)
+        for (int i = 0; i <= s.Length; i++)
         {
             if (doubledSpan.Slice(i, goalSpan.Length).SequenceEqual(goalSpan))
                 return true;
