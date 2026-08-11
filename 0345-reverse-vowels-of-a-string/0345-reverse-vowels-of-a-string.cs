@@ -4,9 +4,7 @@ public class Solution {
         if(string.IsNullOrWhiteSpace(s)) return s;
         int startIndex=0;
         int endIndex=s.Length-1;
-        //char[] S = s.ToCharArray();
         Span<char> span = s.ToCharArray();
-        //s.AsSpan().CopyTo(span);
         while(startIndex<endIndex)
         {
             var isFirst = IsVowel(span[startIndex]);
