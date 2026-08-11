@@ -6,7 +6,7 @@ public class Solution {
         int endIndex=s.Length-1;
         //char[] S = s.ToCharArray();
         Span<char> span = s.ToCharArray();
-        s.AsSpan().CopyTo(span);
+        //s.AsSpan().CopyTo(span);
         while(startIndex<endIndex)
         {
             var isFirst = IsVowel(span[startIndex]);
