@@ -2,9 +2,7 @@ public class Solution {
     public int LongestCommonSubsequence(string text1, string text2) {
         int m = text1.Length;
         int n = text2.Length;
-
         int[,] dp = new int[m + 1, n + 1];
-
         for (int i = 1; i <= m; i++)
         {
             for (int j = 1; j <= n; j++)
