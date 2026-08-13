@@ -2,9 +2,7 @@ public class Solution {
     public int MinDistance(string word1, string word2) {
         int m = word1.Length;
         int n = word2.Length;
-
         int[,] dp = new int[m + 1, n + 1];
-
         // Base cases
         for (int i = 0; i <= m; i++)
             dp[i, 0] = i;
@@ -33,7 +31,6 @@ public class Solution {
                 }
             }
         }
-
         return dp[m, n];  
     }
 }
