@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
