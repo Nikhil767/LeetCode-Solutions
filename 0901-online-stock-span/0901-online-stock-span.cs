@@ -1,5 +1,4 @@
 public class StockSpanner {
-
     private Stack<(int price, int span)> stack;
     public StockSpanner() {
         stack = new Stack<(int price, int span)>();
