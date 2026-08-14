@@ -11,7 +11,6 @@ public class Solution {
                 int prevIndex = stack.Pop();
                 answer[prevIndex] = i - prevIndex;
             }
-
             stack.Push(i);
         }
         return answer;
