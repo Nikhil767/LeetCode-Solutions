@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
 | ------- |
