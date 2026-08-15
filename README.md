@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0399-evaluate-division](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0649-dota2-senate](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
