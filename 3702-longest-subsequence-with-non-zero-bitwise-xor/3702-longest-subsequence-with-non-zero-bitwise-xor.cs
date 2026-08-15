@@ -12,7 +12,6 @@ public class Solution {
                 break;
             }
         }
-
         if (allZero)
             return 0;
 
