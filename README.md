@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1768-merge-strings-alternately](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
