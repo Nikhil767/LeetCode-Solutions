@@ -20,10 +20,8 @@ public class Solution {
                 first = first - second;
                 second = 0;
             }
-
             first++;
         }
-
         return -1;
     }
 }
