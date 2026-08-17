@@ -11,7 +11,7 @@ public class Solution {
         }
         freq[t[s.Length] - a]--;
 
-        for (int i = 0; i < freq.Length; i++)
+        for (int i=0; i<freq.Length; i++)
         {
             if (freq[i] != 0)            
                 return (char)(i + a);            
