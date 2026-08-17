@@ -18,4 +18,17 @@ public class Solution {
         }
         return '\0';
     }
+
+    public char FindTheDifferenceWithXOR(string s, string t)
+    {
+        if (string.IsNullOrEmpty(s)) return t[0];
+        int result = 0;
+        foreach (var item in s)        
+            result ^= item;
+        
+        foreach (var item in t)        
+            result ^= item;
+        
+        return (char)result;
+    }
 }
