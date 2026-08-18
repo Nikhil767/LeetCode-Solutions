@@ -4,8 +4,7 @@ public class Solution {
         if(string.IsNullOrEmpty(s) || string.IsNullOrEmpty(t)) return result;
         if(s.Length != t.Length) return result;
         
-        int[] count= new int[26];
-        
+        int[] count= new int[26];        
         for(int i=0; i<s.Length; i++)
         {
             count[s[i] - 'a']++;
