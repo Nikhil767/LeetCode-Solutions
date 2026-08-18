@@ -3,20 +3,35 @@ public class Solution {
         bool result = false;
         if(string.IsNullOrEmpty(s) || string.IsNullOrEmpty(t)) return result;
         if(s.Length != t.Length) return result;
-        
+
+        return IsAnagramByFrequencyArray(s,t);
+        //return IsAnagramByXOR(s,t);
+    }
+
+    public bool IsAnagramByXOR(string s, string t) {
+        int xor = 0;
+        for (int i = 0; i < s.Length; i++)
+        {
+            xor ^= s[i];
+            xor ^= t[i];
+        }
+        return xor == 0;
+    }
+
+    public bool IsAnagramByFrequencyArray(string s, string t) {
+        bool result = false;
         int[] count= new int[26];        
         for(int i=0; i<s.Length; i++)
         {
             count[s[i] - 'a']++;
             count[t[i] - 'a']--;
-        }
-        
+        }        
         for(int j=0; j<count.Length; j++)
         {
             if(count[j] != 0)
                 return result;
         }
         result=true;
-        return result;        
+        return result; 
     }
 }
