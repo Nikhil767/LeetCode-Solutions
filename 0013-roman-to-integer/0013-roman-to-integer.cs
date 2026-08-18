@@ -14,7 +14,6 @@ public class Solution {
         {
             int currentValue = data[s[i]];
             int nextValue = (i + 1 < s.Length) ? data[s[i + 1]] : 0;
-
             if (currentValue < nextValue)
                 result -= currentValue;
             else
