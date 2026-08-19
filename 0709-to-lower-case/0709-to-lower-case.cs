@@ -5,16 +5,16 @@ public class Solution {
         // with String.Create
         return string.Create(s.Length, s, (span, input)=>
         {
+            const uint UpperRange = 'Z' - 'A'; // 25
             for(int i=0; i<input.Length; i++)
             {
-                 if(Char.IsUpper(input[i]))
-                    span[i] =(char)(input[i] | 0x20);
+                char c =input[i];
+                 if((uint)(c - 'A') <= UpperRange)
+                    span[i] = (char)(c | 0x20);
                 else
-                    span[i] =input[i];
+                    span[i] = c;
             }
         });
-
-
         // // with StringBuilder
         // StringBuilder sb = new(s.Length);
         // foreach(char c in s)
