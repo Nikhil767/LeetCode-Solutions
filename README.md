@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [0709-to-lower-case](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
