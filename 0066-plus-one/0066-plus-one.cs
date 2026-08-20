@@ -39,6 +39,8 @@ public class Solution {
             num = num / 10;
         }
         var result = newDigits.ToArray();
+
+        // reverse array in place
         int start=0;        
         int end=result.Length-1;
         while (start < end)
