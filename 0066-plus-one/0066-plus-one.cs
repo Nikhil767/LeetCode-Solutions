@@ -1,6 +1,30 @@
 public class Solution {
     public int[] PlusOne(int[] digits) {
         if(digits is null || digits.Length < 1) return digits;
+        
+        return Op(digits);
+        //return WithBigInteger(digits);
+    }
+
+    private int[] Op(int[] digits)
+    {
+        // Traverse from right to left
+        for (int i = digits.Length - 1; i >= 0; i--) {
+            if (digits[i] < 9) {
+                digits[i]++;      // no carry needed
+                return digits;    // done
+            }
+            digits[i] = 0;        // set to 0 and continue carry
+        }
+
+        // If we reach here, all digits were 9 (e.g. 999 -> 1000)
+        var result = new int[digits.Length + 1];
+        result[0] = 1;            // 1 followed by all 0s
+        return result;
+    }
+
+    private int[] WithBigInteger(int[] digits)
+    {
         System.Numerics.BigInteger num=0;
         foreach(int n in digits)
         {
