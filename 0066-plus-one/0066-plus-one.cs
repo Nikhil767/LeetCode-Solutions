@@ -31,6 +31,7 @@ public class Solution {
         {
             num = num * 10 + n; 
         }
+        // add 1 to the real number
         num = num+1;
         List<int> newDigits=new(digits.Length+1);
         while(num>0)
