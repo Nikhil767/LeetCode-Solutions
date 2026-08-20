@@ -25,6 +25,7 @@ public class Solution {
 
     private int[] WithBigInteger(int[] digits)
     {
+        // used BigInteger for large numbers
         System.Numerics.BigInteger num=0;
         foreach(int n in digits)
         {
