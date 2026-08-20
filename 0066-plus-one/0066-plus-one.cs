@@ -27,6 +27,7 @@ public class Solution {
     {
         // used BigInteger for large numbers
         System.Numerics.BigInteger num=0;
+        // form a number from digits of array 
         foreach(int n in digits)
         {
             num = num * 10 + n; 
