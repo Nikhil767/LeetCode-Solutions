@@ -10,12 +10,9 @@ public class Solution {
                 isDecreasing=false;
             if(nums[i] > nums[i+1])
                 isIncreasing=false;
+            if(!isIncreasing && !isDecreasing) 
+                return false;
         }
-        // for (int i=0; i<=n-2; i++)
-        // {
-        //     if(nums[i] > nums[i+1])
-        //         isIncreasing=false;
-        // }
         return isIncreasing || isDecreasing ? true : false;
     }
 }
