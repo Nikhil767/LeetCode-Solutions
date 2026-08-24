@@ -1,7 +1,7 @@
 public class Solution {
     public string GcdOfStrings(string str1, string str2) {
         if(string.IsNullOrEmpty(str1) || string.IsNullOrEmpty(str2)) return "";
-        if (!AreConcatsEqual(str1.AsSpan(), str2.AsSpan()))
+        if (AreConcatsEqual(str1.AsSpan(), str2.AsSpan()) == false)
             return "";
         
         var counter = GCD(str1.Length, str2.Length);
