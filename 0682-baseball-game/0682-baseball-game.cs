@@ -5,32 +5,35 @@ public class Solution {
         const string C = "C";
         const string D = "D";
         const string PLUS = "+";
-        Stack<string> data = new(operations.Length);
+        Stack<int> data = new(operations.Length);
         foreach (var item in operations)
         {
-            if (item == C)            
-                data.Pop();            
+            if (item == C)
+            {
+                var removed = data.Pop();
+                total -= removed;
+            }
             else if (item == D)
             {
-                var prev = data.Peek();
-                int newValue = int.Parse(prev) * 2;
-                data.Push(newValue.ToString());
+                var newValue = data.Peek() * 2;
+                total += newValue;
+                data.Push(newValue);
             }
             else if (item == PLUS)
             {
                 var prev = data.Pop();
                 var prev2 = data.Peek();
-                int newValue = int.Parse(prev) + int.Parse(prev2);
+                var newValue = prev + prev2;
+                total += newValue;
                 data.Push(prev);
-                data.Push(newValue.ToString());
+                data.Push(newValue);
             }
             else
-                data.Push(item);				
-        }
-        if(data.Count > 0)
-        {
-            foreach (var item in data)            
-                total += int.Parse(item);            
+            {
+                var currentValue = int.Parse(item);
+                total += currentValue;
+                data.Push(currentValue);
+            }
         }
         return total;
     }
