@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0459-repeated-substring-pattern](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [0657-robot-return-to-origin](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
