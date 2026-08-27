@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
