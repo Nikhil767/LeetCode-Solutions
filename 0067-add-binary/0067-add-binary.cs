@@ -19,9 +19,10 @@ public class Solution {
                 j--;
             }                
             sb.Append(sum % 2);
-            carry = sum / 2;
+            carry = sum >> 1; //sum / 2;
         }
         // reverse because we built from right to left
+
         // char[] arr = sb.ToString().ToCharArray();
         // Array.Reverse(arr);
         // return new string(arr);
