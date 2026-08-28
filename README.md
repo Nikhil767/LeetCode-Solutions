@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0263-ugly-number) |
