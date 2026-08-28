@@ -10,12 +10,12 @@ public class Solution {
             int sum = carry;
             if (i >= 0)
             {
-                sum += a[i] - '0';
+                sum = sum + a[i] - '0';
                 i--;
             }
             if (j >= 0)
             {
-                sum += b[j] - '0';
+                sum = sum + b[j] - '0';
                 j--;
             }                
             sb.Append(sum % 2);
