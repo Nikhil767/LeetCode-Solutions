@@ -3,7 +3,6 @@ public class Solution {
         var result = new List<int>();
         int m = matrix.Length;
         int n = matrix[0].Length;
-
         int top = 0, bottom = m - 1;
         int left = 0, right = n - 1;
 
