@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1041-robot-bounded-in-circle](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1041-robot-bounded-in-circle](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1041-robot-bounded-in-circle](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
