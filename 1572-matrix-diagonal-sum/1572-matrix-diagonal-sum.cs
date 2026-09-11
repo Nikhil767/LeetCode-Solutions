@@ -11,7 +11,6 @@ public class Solution {
         // If n is odd, subtract the center (it was added twice)
         if (n % 2 == 1)
             sum -= mat[n / 2][n / 2];
-
         return sum;
     }
 }
