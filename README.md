@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0649-dota2-senate](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
