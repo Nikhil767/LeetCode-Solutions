@@ -9,7 +9,6 @@ public class Solution {
 
         // A = +1, B = -1
         int player = 1;
-
         foreach (var move in moves)
         {
             int r = move[0];
