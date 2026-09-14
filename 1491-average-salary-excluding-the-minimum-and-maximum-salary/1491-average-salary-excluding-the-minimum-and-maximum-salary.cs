@@ -18,13 +18,10 @@ public class Solution {
         {
             total += s;
         }
-
         // Step 3: Remove min and max from total
         int sumWithoutMinMax = total - min - max;
-
         // Step 4: Count of remaining employees
         int count = salary.Length - 2;
-
         // Step 5: Compute average
         double average = (double)sumWithoutMinMax / count;
 
