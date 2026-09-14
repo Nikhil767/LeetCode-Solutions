@@ -11,7 +11,6 @@ public class Solution {
             if (s > max)
                 max = s;
         }
-
         // Step 2: Compute total sum of all salaries
         int total = 0;
         foreach (int s in salary)
@@ -24,7 +23,6 @@ public class Solution {
         int count = salary.Length - 2;
         // Step 5: Compute average
         double average = (double)sumWithoutMinMax / count;
-
         return average;
     }
 }
