@@ -3,7 +3,6 @@ public class Solution {
         // Step 1: Find minimum and maximum salary
         int min = int.MaxValue;
         int max = int.MinValue;
-
         foreach (int s in salary)
         {
             if (s < min)
