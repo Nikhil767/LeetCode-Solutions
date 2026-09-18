@@ -4,10 +4,10 @@ public class Solution {
         int length=0;
         for (int i=s.Length-1; i>=0; i--)
         {
-            var isChar = Char.IsWhiteSpace(s[i]);
-            if(!isChar)
+            var isWhiteSpace = Char.IsWhiteSpace(s[i]);
+            if(!isWhiteSpace)
                 length++;
-            else if(isChar && length > 0)
+            else if(isWhiteSpace && length > 0)
                 break;
         }
         return length;
