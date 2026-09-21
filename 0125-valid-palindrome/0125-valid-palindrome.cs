@@ -6,8 +6,6 @@ public class Solution {
         var end = span.Length-1;        
         while(start<= end)
         {
-            //bool isFirstLetter = char.IsLetterOrDigit(span[start]);
-            //bool isLastLetter = char.IsLetterOrDigit(span[end]);
             if(!char.IsLetterOrDigit(span[end]))
             {
                 end--;
