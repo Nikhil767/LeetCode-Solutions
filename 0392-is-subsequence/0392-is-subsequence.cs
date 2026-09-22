@@ -3,7 +3,6 @@ public class Solution {
         if(string.IsNullOrEmpty(s)) return true;
         if(string.IsNullOrEmpty(t)) return false;
         if(t.Length < s.Length) return false;
-
         var spanS = s.AsSpan();
         var spanT = t.AsSpan();
         int i=0;
