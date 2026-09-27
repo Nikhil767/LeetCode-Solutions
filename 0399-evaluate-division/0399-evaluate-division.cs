@@ -17,7 +17,6 @@ public class Solution {
         }
 
         var result = new List<double>();
-
         // Process queries
         foreach (var q in queries)
         {
