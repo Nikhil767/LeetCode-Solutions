@@ -3,8 +3,8 @@ public class Solution {
         int m = matrix.Length; 
         int n = matrix[0].Length; 
 
-        bool firstRowZero = false;
-        bool firstColZero = false;
+        bool firstRowZero = false; 
+        bool firstColZero = false; 
 
         // Check if first row has zero
         for (int j = 0; j < n; j++)
