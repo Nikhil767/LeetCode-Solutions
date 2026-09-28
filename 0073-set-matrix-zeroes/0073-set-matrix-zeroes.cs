@@ -1,7 +1,7 @@
 public class Solution {
     public void SetZeroes(int[][] matrix) {
-        int m = matrix.Length;
-        int n = matrix[0].Length;
+        int m = matrix.Length; 
+        int n = matrix[0].Length; 
 
         bool firstRowZero = false;
         bool firstColZero = false;
