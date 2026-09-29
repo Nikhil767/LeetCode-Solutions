@@ -1,8 +1,10 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         if(nums is null || nums.Length<1) return null;
+
         int[] result = null;
         Dictionary<int, int> freq=new(nums.Length);
+
         for (int i=0; i<nums.Length; i++)
         {
             var diff = target-nums[i];
