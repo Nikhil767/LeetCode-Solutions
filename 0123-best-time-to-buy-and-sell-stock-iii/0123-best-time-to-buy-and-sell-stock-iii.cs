@@ -1,6 +1,6 @@
 public class Solution {
     public int MaxProfit(int[] prices) {
-        
+
         int buy1 = int.MinValue;
         int sell1 = 0;
         int buy2 = int.MinValue;
@@ -13,7 +13,6 @@ public class Solution {
             buy2 = Math.Max(buy2, sell1 - price);
             sell2 = Math.Max(sell2, buy2 + price);
         }
-
         return sell2;
     }
 }
