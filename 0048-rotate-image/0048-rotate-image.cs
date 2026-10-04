@@ -1,6 +1,6 @@
 public class Solution {
     public void Rotate(int[][] matrix) {
-        
+
         int n = matrix.Length;
         // 1. Transpose the matrix (swap matrix[i][j] with matrix[j][i])
         for (int i = 0; i < n; i++)
@@ -12,6 +12,7 @@ public class Solution {
                 matrix[j][i] = temp;
             }
         }
+        
         // 2. Reverse each row (to complete 90° clockwise rotation)
         for (int i = 0; i < n; i++)
         {
