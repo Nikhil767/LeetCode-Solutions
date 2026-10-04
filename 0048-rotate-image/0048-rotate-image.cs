@@ -1,5 +1,6 @@
 public class Solution {
     public void Rotate(int[][] matrix) {
+        
         int n = matrix.Length;
         // 1. Transpose the matrix (swap matrix[i][j] with matrix[j][i])
         for (int i = 0; i < n; i++)
