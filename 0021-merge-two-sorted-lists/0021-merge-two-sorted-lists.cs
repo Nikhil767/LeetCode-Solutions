@@ -14,7 +14,7 @@ public class Solution {
 
         ListNode dummy = new ListNode(0);
         ListNode current = dummy;
-        
+
         while(list1 != null && list2 != null)
         {
             if (list1.val < list2.val)
@@ -29,6 +29,7 @@ public class Solution {
             }
             current = current.next;
         }
+        // check if still list exists then append at last
         current.next = list1 ?? list2;
         return dummy.next;
     }
