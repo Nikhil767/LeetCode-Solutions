@@ -5,21 +5,15 @@ public class Solution {
         int right = nums.Length-1;
         while(left <= right)
         {
-            var currentValue = nums[left];
-            var lastValue = nums[right];
-            if(currentValue == val && lastValue == val)
+            if (nums[left] == val)
             {
-                right--;
-                continue;
-            }
-            else if(currentValue == val)
-            {
-                var t = nums[left];
                 nums[left] = nums[right];
-                nums[right] = t;
                 right--;
             }
-            left++;
+            else
+            {
+                left++;
+            }
         }
         return left;
     }
