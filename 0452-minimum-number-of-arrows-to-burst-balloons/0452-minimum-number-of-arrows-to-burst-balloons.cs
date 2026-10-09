@@ -9,7 +9,7 @@ public class Solution {
 
         int arrows = 1;
         int lastEnd = points[0][1];
-        
+
         for (int i = 1; i < points.Length; i++)
         {
             // If current balloon starts after lastEnd, we need a new arrow
@@ -33,6 +33,7 @@ public class Solution {
                 if (arr[j][1] < arr[minIndex][1])
                     minIndex = j;
             }
+            // swap
             var temp = arr[i];
             arr[i] = arr[minIndex];
             arr[minIndex] = temp;
