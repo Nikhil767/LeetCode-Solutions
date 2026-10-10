@@ -8,7 +8,6 @@ public class Solution {
     public string VerticalScanning(string[] strs)
     {
         string first = strs[0];
-        StringBuilder sb = new(strs.Length * 2);
         for (int i = 0; i < first.Length; i++)
         {
             char ch = first[i];
