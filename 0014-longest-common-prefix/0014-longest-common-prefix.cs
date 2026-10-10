@@ -2,7 +2,8 @@ public class Solution {
     public string LongestCommonPrefix(string[] strs) {
         if (strs is null || strs.Length < 1) return "";
 
-        return VerticalScanning(strs);        
+        return VerticalScanning(strs);
+        //return HorizontalScanning(strs);       
     }
 
     public string VerticalScanning(string[] strs)
