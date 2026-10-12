@@ -14,15 +14,14 @@
 public class Solution {
     public IList<int> RightSideView(TreeNode root) {
         var result = new List<int>();
-
         DFS(root, 0, result);
-        
         return result;
     }
 
     private void DFS(TreeNode node, int depth, IList<int> result)
     {
-        if (node == null) return;
+        if (node == null) 
+            return;
         if (depth == result.Count)
             result.Add(node.val);
         DFS(node.right, depth + 1, result);
