@@ -20,7 +20,7 @@ public class Solution {
 
     private void DFS(TreeNode node, int depth, IList<int> result)
     {
-        if (node == null) 
+        if (node is null) 
             return;
         if (depth == result.Count)
             result.Add(node.val);
