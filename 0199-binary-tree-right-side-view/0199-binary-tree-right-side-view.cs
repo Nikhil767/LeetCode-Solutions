@@ -14,7 +14,9 @@
 public class Solution {
     public IList<int> RightSideView(TreeNode root) {
         var result = new List<int>();
+
         DFS(root, 0, result);
+        
         return result;
     }
 
