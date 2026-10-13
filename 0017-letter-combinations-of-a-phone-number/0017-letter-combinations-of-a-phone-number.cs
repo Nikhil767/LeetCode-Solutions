@@ -2,7 +2,6 @@ public class Solution {
     public IList<string> LetterCombinations(string digits) {
         
         List<string> result = new();
-
         if (string.IsNullOrEmpty(digits))
             return result;
 
