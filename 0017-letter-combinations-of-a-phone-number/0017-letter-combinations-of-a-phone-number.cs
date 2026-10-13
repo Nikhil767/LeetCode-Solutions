@@ -1,5 +1,6 @@
 public class Solution {
     public IList<string> LetterCombinations(string digits) {
+        
         List<string> result = new();
 
         if (string.IsNullOrEmpty(digits))
@@ -29,9 +30,7 @@ public class Solution {
             result.Add(current);
             return;
         }
-
         string letters = map[digits[index]];
-
         foreach (char c in letters)
         {
             Backtrack(index + 1, current + c, digits, map, result);
