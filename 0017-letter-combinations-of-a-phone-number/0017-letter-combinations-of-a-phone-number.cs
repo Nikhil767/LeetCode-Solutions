@@ -30,7 +30,7 @@ public class Solution {
             result.Add(current);
             return;
         }
-        string letters = map[digits[index]];
+        var letters = map[digits[index]];
         foreach (char c in letters)
         {
             Backtrack(index + 1, current + c, digits, map, result);
