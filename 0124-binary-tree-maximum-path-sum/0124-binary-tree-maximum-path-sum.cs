@@ -12,8 +12,9 @@
  * }
  */
 public class Solution {
-    int maxSum = int.MinValue;
     
+    int maxSum = int.MinValue;
+
     public int MaxPathSum(TreeNode root) {
         DFS(root);
         return maxSum;
