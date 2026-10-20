@@ -37,7 +37,9 @@ public class Trie {
     }
     
     public bool StartsWith(string prefix) {
-        if(string.IsNullOrEmpty(prefix)) return false;
+        
+        if(string.IsNullOrEmpty(prefix)) 
+            return false;
         Node current = _node;
         foreach(var c in prefix)
         {
