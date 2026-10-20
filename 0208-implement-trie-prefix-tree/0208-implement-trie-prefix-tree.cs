@@ -1,13 +1,15 @@
 public class Trie {
 
     private Node _node;
-    
+
     public Trie() {
         _node = new Node();
     }
     
     public void Insert(string word) {
-        if(string.IsNullOrEmpty(word)) return;
+
+        if(string.IsNullOrEmpty(word)) 
+            return;
         Node current = _node;
         for (int i=0; i<word.Length; i++)
         {
@@ -20,7 +22,9 @@ public class Trie {
     }
     
     public bool Search(string word) {
-        if(string.IsNullOrEmpty(word)) return false;
+
+        if(string.IsNullOrEmpty(word)) 
+            return false;
         Node current = _node;
         foreach(var c in word)
         {
