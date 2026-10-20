@@ -1,5 +1,7 @@
 public class Trie {
+
     private Node _node;
+    
     public Trie() {
         _node = new Node();
     }
