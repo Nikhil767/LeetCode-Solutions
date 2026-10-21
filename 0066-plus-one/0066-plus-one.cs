@@ -1,7 +1,8 @@
 public class Solution {
     public int[] PlusOne(int[] digits) {
-        
-        if(digits is null || digits.Length < 1) return digits;
+
+        if(digits is null || digits.Length < 1) 
+            return digits;
         
         return Op(digits);
         //return WithBigInteger(digits);
