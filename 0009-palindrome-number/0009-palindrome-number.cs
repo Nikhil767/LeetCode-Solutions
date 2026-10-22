@@ -3,8 +3,7 @@ public class Solution {
         if(x < 0 || (x % 10 == 0 && x != 0)) 
             return false;
 
-        int reversedHalf = 0;
-        
+        int reversedHalf = 0;        
         while (x > reversedHalf)
         {
             reversedHalf = reversedHalf * 10 + x % 10;
