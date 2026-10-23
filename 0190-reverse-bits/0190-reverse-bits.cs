@@ -1,6 +1,8 @@
 public class Solution {
     public int ReverseBits(int n) {
+
         int result=0;
+        
         for (int i=0; i<32; i++)
         {
             result <<= 1; // Shift existing bits in result one position to the left.
