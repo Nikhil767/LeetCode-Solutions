@@ -17,7 +17,7 @@ public class Solution {
             return false;
 
         // Leaf node
-        if (root.left == null && root.right == null)
+        if (root.left is null && root.right is null)
             return targetSum == root.val;
 
         return HasPathSum(root.left, targetSum - root.val) ||
