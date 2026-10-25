@@ -1,9 +1,8 @@
 public class Solution {
     public bool WordBreak(string s, IList<string> wordDict) {
-        HashSet<string> words = new HashSet<string>(wordDict);
 
+        HashSet<string> words = new HashSet<string>(wordDict);
         bool[] dp = new bool[s.Length + 1];
-        
         dp[0] = true;
 
         for (int i = 1; i <= s.Length; i++)
@@ -17,7 +16,6 @@ public class Solution {
                 }
             }
         }
-
         return dp[s.Length];
     }
 }
