@@ -3,6 +3,7 @@ public class Solution {
         HashSet<string> words = new HashSet<string>(wordDict);
 
         bool[] dp = new bool[s.Length + 1];
+        
         dp[0] = true;
 
         for (int i = 1; i <= s.Length; i++)
