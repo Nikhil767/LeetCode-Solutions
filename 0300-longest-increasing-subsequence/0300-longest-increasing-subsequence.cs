@@ -2,27 +2,27 @@ public class Solution {
     public int LengthOfLIS(int[] nums) {
         List<int> tails = new List<int>();
 
-    foreach (int num in nums)
-    {
-        int left = 0;
-        int right = tails.Count;
-
-        while (left < right)
+        foreach (int num in nums)
         {
-            int mid = left + (right - left) / 2;
+            int left = 0;
+            int right = tails.Count;
 
-            if (tails[mid] < num)
-                left = mid + 1;
+            while (left < right)
+            {
+                int mid = left + (right - left) / 2;
+
+                if (tails[mid] < num)
+                    left = mid + 1;
+                else
+                    right = mid;
+            }
+
+            if (left == tails.Count)
+                tails.Add(num);
             else
-                right = mid;
+                tails[left] = num;
         }
 
-        if (left == tails.Count)
-            tails.Add(num);
-        else
-            tails[left] = num;
-    }
-
-    return tails.Count;
+        return tails.Count;
     }
 }
