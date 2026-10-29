@@ -11,7 +11,6 @@ public class Solution {
             a = b;
             b = c;
         }
-
         return b;
     }
 }
