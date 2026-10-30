@@ -1,6 +1,6 @@
 public class Solution {
     public int CoinChange(int[] coins, int amount) {
-        
+
         // dp[i] = minimum coins needed to make amount i
         int[] dp = new int[amount + 1];
 
@@ -19,7 +19,6 @@ public class Solution {
                 }
             }
         }
-
         return dp[amount] > amount ? -1 : dp[amount];
     }
 }
