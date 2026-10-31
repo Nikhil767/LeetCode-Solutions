@@ -13,7 +13,7 @@
  */
 public class Solution {
     public TreeNode InvertTree(TreeNode root) {
-        if (root == null)
+        if (root is null)
             return null;
 
         // Swap left and right
