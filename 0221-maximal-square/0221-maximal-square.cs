@@ -1,11 +1,12 @@
 public class Solution {
     public int MaximalSquare(char[][] matrix) {
-        
+
+        int maxSide = 0;
         int rows = matrix.Length;
         int cols = matrix[0].Length;
 
         int[,] dp = new int[rows + 1, cols + 1];
-        int maxSide = 0;
+        
 
         for (int r = 1; r <= rows; r++)
         {
