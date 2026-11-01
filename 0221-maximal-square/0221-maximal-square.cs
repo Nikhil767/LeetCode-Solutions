@@ -1,5 +1,6 @@
 public class Solution {
     public int MaximalSquare(char[][] matrix) {
+        
         int rows = matrix.Length;
         int cols = matrix[0].Length;
 
