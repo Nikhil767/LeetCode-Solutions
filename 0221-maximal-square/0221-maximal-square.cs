@@ -4,7 +4,6 @@ public class Solution {
         int maxSide = 0;
         int rows = matrix.Length;
         int cols = matrix[0].Length;
-
         int[,] dp = new int[rows + 1, cols + 1];
         
 
