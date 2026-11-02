@@ -6,7 +6,6 @@ public class Solution {
         {
             int len1 = Expand(s, i, i);
             int len2 = Expand(s, i, i + 1);
-
             int len = Math.Max(len1, len2);
 
             if (len > end - start + 1)
