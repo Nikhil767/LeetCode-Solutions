@@ -20,15 +20,15 @@ public class Solution {
     }
 
     private int Expand(string s, int left, int right)
-{
-    while (left >= 0 &&
-           right < s.Length &&
-           s[left] == s[right])
     {
-        left--;
-        right++;
-    }
+        while (left >= 0 &&
+            right < s.Length &&
+            s[left] == s[right])
+        {
+            left--;
+            right++;
+        }
 
-    return right - left - 1;
-}
+        return right - left - 1;
+    }
 }
