@@ -2,21 +2,21 @@ public class Solution {
     public string LongestPalindrome(string s) {
          int start = 0, end = 0;
 
-    for (int i = 0; i < s.Length; i++)
-    {
-        int len1 = Expand(s, i, i);
-        int len2 = Expand(s, i, i + 1);
-
-        int len = Math.Max(len1, len2);
-
-        if (len > end - start + 1)
+        for (int i = 0; i < s.Length; i++)
         {
-            start = i - (len - 1) / 2;
-            end = i + len / 2;
-        }
-    }
+            int len1 = Expand(s, i, i);
+            int len2 = Expand(s, i, i + 1);
 
-    return s.Substring(start, end - start + 1);
+            int len = Math.Max(len1, len2);
+
+            if (len > end - start + 1)
+            {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
+            }
+        }
+
+        return s.Substring(start, end - start + 1);
     }
 
     private int Expand(string s, int left, int right)
