@@ -1,10 +1,10 @@
 public class Solution {
     public int MajorityElement(int[] nums) {
         if (nums is null || nums.Length < 1)
-            return 0;
+            return -1;
 
         return MajorityElementOP(nums);
-        
+
         int majorityCount = nums.Length >> 1;
         Dictionary<int,int> freq = new(nums.Length);
         foreach(var i in nums)
