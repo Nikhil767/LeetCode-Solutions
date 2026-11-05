@@ -1,5 +1,6 @@
 public class Solution {
     public string AddBinary(string a, string b) {
+        
         if (string.IsNullOrWhiteSpace(a) || string.IsNullOrWhiteSpace(b)) return "";
         int i = a.Length - 1;
         int j = b.Length - 1;
