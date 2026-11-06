@@ -4,7 +4,6 @@ public class Solution {
             return 0;
 
         int rows = triangle.Count;
-
         // Copy last row
         int[] dp = new int[triangle[rows - 1].Count];
 
