@@ -3,7 +3,6 @@ public class Solution {
         int rows = grid.Length;
         int cols = grid[0].Length;
         int[,] dp = new int[rows, cols];
-
         dp[0, 0] = grid[0][0];
 
         for (int c = 1; c < cols; c++)
