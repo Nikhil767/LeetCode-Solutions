@@ -2,7 +2,6 @@ public class Solution {
     public int MinPathSum(int[][] grid) {
         int rows = grid.Length;
         int cols = grid[0].Length;
-
         int[,] dp = new int[rows, cols];
 
         dp[0, 0] = grid[0][0];
