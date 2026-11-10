@@ -1,7 +1,7 @@
 public class Solution {
     public int MySqrt(int x) {
         if (x < 2)
-        return x;
+            return x;
 
     int left = 1;
     int right = x;
