@@ -1,29 +1,29 @@
 public class Solution {
     public int UniquePathsWithObstacles(int[][] obstacleGrid) {
         int m = obstacleGrid.Length;
-    int n = obstacleGrid[0].Length;
+        int n = obstacleGrid[0].Length;
 
-    if (obstacleGrid[0][0] == 1 || obstacleGrid[m - 1][n - 1] == 1)
-        return 0;
+        if (obstacleGrid[0][0] == 1 || obstacleGrid[m - 1][n - 1] == 1)
+            return 0;
 
-    int[] dp = new int[n];
-    dp[0] = 1;
+        int[] dp = new int[n];
+        dp[0] = 1;
 
-    for (int i = 0; i < m; i++)
-    {
-        for (int j = 0; j < n; j++)
+        for (int i = 0; i < m; i++)
         {
-            if (obstacleGrid[i][j] == 1)
+            for (int j = 0; j < n; j++)
             {
-                dp[j] = 0;
-            }
-            else if (j > 0)
-            {
-                dp[j] += dp[j - 1];
+                if (obstacleGrid[i][j] == 1)
+                {
+                    dp[j] = 0;
+                }
+                else if (j > 0)
+                {
+                    dp[j] += dp[j - 1];
+                }
             }
         }
-    }
 
-    return dp[n - 1];
+        return dp[n - 1];
     }
 }
