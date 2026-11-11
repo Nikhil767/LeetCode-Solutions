@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0068-text-justification) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0072-edit-distance) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0221-maximal-square) |
