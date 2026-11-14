@@ -55,7 +55,6 @@ public class Solution {
                 a = b;
                 b = temp;
             }
-
             return a == 0 ? 1 : a;
         }
     }
