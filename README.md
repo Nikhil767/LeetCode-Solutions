@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -568,14 +571,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Nikhil767/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Quicksort
 |  |
