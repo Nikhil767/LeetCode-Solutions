@@ -14,7 +14,6 @@ public class Solution {
 
         ListNode dummy = new ListNode(0);
         ListNode current = dummy;
-
         while(list1 != null && list2 != null)
         {
             if (list1.val < list2.val)
