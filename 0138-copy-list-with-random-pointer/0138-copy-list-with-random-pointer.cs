@@ -15,7 +15,7 @@ public class Node {
 
 public class Solution {
     public Node CopyRandomList(Node head) {
-        if (head == null) return null;
+        if (head is null) return null;
 
         Dictionary<Node, Node> map = new Dictionary<Node, Node>();
 
