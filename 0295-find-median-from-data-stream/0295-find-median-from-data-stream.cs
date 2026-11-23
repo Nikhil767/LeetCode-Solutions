@@ -23,7 +23,7 @@ private PriorityQueue<int, int> maxHeap;
         if (maxHeap.Count > minHeap.Count)
         return maxHeap.Peek();
 
-    return (maxHeap.Peek() + minHeap.Peek()) / 2.0;
+        return (maxHeap.Peek() + minHeap.Peek()) / 2.0;
     }
 }
 
