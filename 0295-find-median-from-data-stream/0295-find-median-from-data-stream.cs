@@ -9,14 +9,14 @@ private PriorityQueue<int, int> maxHeap;
     public void AddNum(int num) {
         maxHeap.Enqueue(num, -num);
 
-    int maxTop = maxHeap.Dequeue();
-    minHeap.Enqueue(maxTop, maxTop);
+        int maxTop = maxHeap.Dequeue();
+        minHeap.Enqueue(maxTop, maxTop);
 
-    if (minHeap.Count > maxHeap.Count)
-    {
-        int minTop = minHeap.Dequeue();
-        maxHeap.Enqueue(minTop, -minTop);
-    }
+        if (minHeap.Count > maxHeap.Count)
+        {
+            int minTop = minHeap.Dequeue();
+            maxHeap.Enqueue(minTop, -minTop);
+        }
     }
     
     public double FindMedian() {
