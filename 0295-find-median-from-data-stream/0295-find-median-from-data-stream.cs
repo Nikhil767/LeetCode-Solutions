@@ -1,9 +1,9 @@
 public class MedianFinder {
-private PriorityQueue<int, int> minHeap;
-private PriorityQueue<int, int> maxHeap;
+    private PriorityQueue<int, int> minHeap;
+    private PriorityQueue<int, int> maxHeap;
     public MedianFinder() {
         minHeap = new PriorityQueue<int, int>();
-    maxHeap = new PriorityQueue<int, int>();
+        maxHeap = new PriorityQueue<int, int>();
     }
     
     public void AddNum(int num) {
