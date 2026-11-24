@@ -13,6 +13,7 @@
  */
 public class Solution {
     public bool IsSameTree(TreeNode p, TreeNode q) {
+
         // Both nodes are null
         if (p is null && q is null)
             return true;
@@ -27,5 +28,6 @@ public class Solution {
 
         // Compare left and right subtrees
         return IsSameTree(p.left, q.left) && IsSameTree(p.right, q.right);
+        
     }
 }
